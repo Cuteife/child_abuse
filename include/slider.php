@@ -39,7 +39,7 @@
       <div class="text-block">
         <h1> CHILD ABUSE REPORTING SYSTEM</h1>
         <p>Reporting abuse and neglect leads to help</p>
-        <a href="./dashboard.php" class="btn btn-secondary btn-lg col-2" role="button">Report Abuse</a>
+        <a href="./reportabuse.php" class="btn btn-secondary btn-lg col-2" role="button">Report Abuse</a>
 
 
       </div>
@@ -51,7 +51,7 @@
     <div class="text-block">
       <h1> CHILD ABUSE REPORTING SYSTEM</h1>
       <p>The true character of a society is revealed in how it treat its children</p>
-      <a href="./dashboard.php" class="btn btn-secondary btn-lg col-2" role="button">Report Abuse</a>
+      <a href="./reportabuse.php" class="btn btn-secondary btn-lg col-2" role="button">Report Abuse</a>
     </div>
   </div>
   <div class="carousel-item">
@@ -59,7 +59,7 @@
     <div class="text-block">
       <h1> CHILD ABUSE REPORTING SYSTEM</h1>
       <p>Part of the healing process is sharing with other people who care</p>
-      <a href="./dashboard.php" class="btn btn-secondary btn-lg col-2" role="button">Report Abuse</a>
+      <a href="./reportabuse.php" class="btn btn-secondary btn-lg col-2" role="button">Report Abuse</a>
     </div>
   </div>
 </div>
